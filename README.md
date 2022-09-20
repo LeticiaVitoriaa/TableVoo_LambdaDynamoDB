@@ -16,7 +16,7 @@ Exemplo do documento:
 {id: AA962, aircraft_prefix: N930NN, pilot_name: 'Deep, Jhon', max_load: 136.9, route: GRU-DFW}
 
 Funções: 
-1. Crie uma lambda function para criar itens nessa tabela de flights. 
-2. Crie uma lambda function para listar todos as informações de voos.
-3. Crie uma lambda function para listar informações de um flight id especifico. 
+1. Crie uma lambda function para criar itens nessa tabela de flights - [Add Item](https://github.com/LeticiaVitoriaa/TableVoo_LambdaDynamoDB/blob/main/AddItemFlights.py)
+2. Crie uma lambda function para listar todos as informações de voos - [Get ItemID](https://github.com/LeticiaVitoriaa/TableVoo_LambdaDynamoDB/blob/main/GetItemIDFlights.py)
+3. Crie uma lambda function para listar informações de um flight id especifico - [Get All Items](https://github.com/LeticiaVitoriaa/TableVoo_LambdaDynamoDB/blob/main/GetAllItemsFlights.py)
 
