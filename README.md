@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # TableVoos_DynamoLambda
 Exercício do LinuxTips de DynamoDB com Lambda, para aplicar conhecimento sobre serviço Lambda da AWS.
 
